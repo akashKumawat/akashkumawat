@@ -1,78 +1,201 @@
 <!--
-**akashKumawat/akashkumawat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  GitHub Profile Repository for Akash Kumawat
+  Premium, production-ready, handcrafted README
+  Replace: resume_url, portfolio_url, linkedin_url, project links as needed
 -->
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> ~ I'm Akash <img width="33" bottom="-20" src="https://user-images.githubusercontent.com/97526754/173172254-697ba77e-bed8-4ffc-b1d1-2c20ede245b0.gif" /></h1>
-<h4 align="center" margin="0px">I am a MEAN Stack Web Developer, passionate about building digital products that improve the everyday experience for people.</h4>
 
-<h2 align="center">console.log("Hello World !!");</h2>
-
-<img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="350" align="left" alt="" />
-
-```js
-import SoftwareDeveloper from 'India'
-class Bio extends SoftwareDeveloper {
-  name     = 'Akash Ramesh Kumawat';
-  title    = 'Software Engineer' || 'MEAN Stack Web Developer';
-  location = 'Punem Maharashtra, India';
-  availability = "Available to hire!!";
-  contactDetails  = {
-    emailId: "akash.kumawat.r@gmail.com"
-  }
-}
-class Skills extends SoftwareDeveloper {
-  frontend  = ['JavaScript', 'HTML', 'CSS', 'Angular', 'Redux'];
-  backend = ['NodeJs', 'ExpressJs', 'MongoDB'];
-  ui = ['PrimeNG', 'Material-Ui', 'Styled-Components', 'Bootstrap'];
-}
-```
-<br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashKumawat&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-<a href="https://github.com/akashKumawat?tab=followers"><img src="https://img.shields.io/github/followers/akashKumawat?label=Followers&style=social" alt="GitHub Badge"></a>
+<p align="center">
+  <img src="assets/banner.svg" alt="Akash Kumawat — Frontend Engineering Lead" width="100%"/>
 </p>
 
-<h3><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h3>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
-  <img src="https://img.shields.io/badge/anuglar-%230d47a1.svg?style=for-the-badge&logo=angular&logoColor=%23e23237" alt="angular"/>
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" />
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" />
-  <img src="https://primefaces.org/cdn/primeng/images/primeng-logo-dark.svg" style="background-color:#fff" alt="primeng" height="28px" width="120px"/>
-  <img src="https://img.shields.io/badge/Angular%20Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /> 
+<p align="center"> 
+  <img src="assets/profile-placeholder.svg" alt="profile" width="120" />
 </p>
 
-<!-- <img src="" alt="" /> -->
-<h3><i>Tools | Use</i></h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
-  <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier" />
-  <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-  </p>
+# Akash Kumawat — Frontend Engineering Lead
 
-<h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
-<p align="left">
-  <a href="https://linkedin.com/in/akash-r-kumawat" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a title="akash.kumawat.r@gmail.com" href="mailto:akash.kumawat.r@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
-</p>
-<br />
+Frontend Engineering Lead based in Pune, India. 8.6+ years building scalable enterprise applications, leading modernization efforts, and mentoring teams to deliver production-grade UI architecture.
 
+- Location: Pune, Maharashtra, India
+- Role: Frontend Engineering Lead
+- Experience: 8.6+ years
+
+---
+
+## Quick Actions
+
+- **Resume:** [Download Resume](https://example.com/resume.pdf)
+- **Portfolio:** [View Portfolio](https://example.com/portfolio)
+- **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/REPLACE-LINKEDIN)
+- **Email:** akash.kumawat@example.com
+
+---
+
+## Professional Introduction
+
+I design and deliver enterprise-grade frontend systems focused on architecture, maintainability, and performance. I lead cross-functional teams, drive Angular modernization, and craft component libraries that scale across products.
+
+---
+
+## Engineering Philosophy
+
+<img src="assets/engineering-philosophy.svg" alt="Engineering Philosophy" width="100%" />
+
+Think ▸ Design ▸ Build ▸ Review ▸ Refactor ▸ Mentor ▸ Scale ▸ Deliver Value
+
+---
+
+## Current Focus
+
+- Leading Angular modernization and migrations (AngularJS → Angular 21)
+- Component-driven architecture and design systems
+- Introducing Angular Signals and performance-first patterns
+- Jest-first testing strategy and developer ergonomics
+
+---
+
+## Professional Highlights
+
+- Led enterprise migrations for BFSI and Supply Chain clients.
+- Architected reusable component libraries with TypeScript-first APIs.
+- Improved performance and TTI across large single-page apps.
+- Mentored teams in testing, CI/CD, and frontend architecture.
+
+---
+
+## Skills Overview
+
+<img src="assets/skills-dashboard.svg" alt="Skills Dashboard" width="100%" />
+
+**Frontend:** Angular (2–21), AngularJS, React, TypeScript, JavaScript, HTML5, CSS3, SCSS
+
+**State Management:** NgRx, Redux, Signals
+
+**Component / UI:** Angular Material, PrimeNG, Storybook
+
+**Testing:** Jest, Cucumber, Puppeteer
+
+**Backend & DevOps:** Node.js, Java, Elasticsearch, Couchbase, Git, CI/CD (Jenkins, GitHub Actions)
+
+**Visualization:** Highcharts, Google Charts
+
+**Methodologies:** Agile, Scrum, Code Reviews, Architectural Reviews, Performance Optimization
+
+---
+
+## Career Timeline
+
+<img src="assets/career-timeline.svg" alt="Career Timeline" width="100%" />
+
+**Technology Apprentice** → **Associate Technology Scientist** → **Senior Software Engineer** → **Technical Lead** → **Senior Software Engineer** → **Project Lead** → **Frontend Engineering Lead**
+
+---
+
+## Enterprise Domain Experience
+
+- BFSI, Supply Chain, E-Commerce, Digital Wellbeing, Product Management
+
+---
+
+## Selected Professional Experience
+
+### Persistent Systems — Project Lead (Oct 2024 – Present)
+- Leading enterprise modernization projects and Angular migrations.
+- Architecting reusable frontend components, introducing Angular Signals.
+
+### Ideas To Impacts Digital — Senior Software Engineer (Jan 2024 – Sep 2024)
+- Contributed to Siemens Enterprise Web Framework using React + TypeScript.
+
+### Magic Flare Software Solutions — Technical Lead / Senior Software Engineer
+- Built reusable libraries, integrations with Google Maps, PrimeNG, and NgRx.
+
+### DataDynamics — Senior Software Engineer
+- Enterprise dashboards, Highcharts, Elasticsearch, CI pipelines.
+
+---
+
+## Featured Projects
+
+> Each card links to the repository and demo — replace URLs with actual project links.
+
+### Project: Enterprise Component Library
+
+- Image: ![placeholder](assets/profile-placeholder.svg)
+- Description: A TypeScript-first, themable component library for enterprise apps. Focus on accessibility, testability, and predictable API.
+- Tech: Angular, TypeScript, Storybook, NgRx, Jest
+- Status: Production
+- Difficulty: Advanced
+- [GitHub](https://github.com/REPLACE/enterprise-component-library) • [Demo](https://example.com/demo)
+
+### Project: Angular Modernization Suite
+
+- Image: ![placeholder](assets/profile-placeholder.svg)
+- Description: Migration tooling, codemods, and scaffolding for upgrading AngularJS apps to Angular 21.
+- Tech: Angular, Schematics, TypeScript
+- Status: Active
+- Difficulty: Complex
+- [GitHub](https://github.com/REPLACE/angular-modernization) • [Demo](https://example.com/modernization)
+
+---
+
+## Achievements
+
+<details>
+<summary>Click to expand professional achievements</summary>
+
+- Delivered enterprise migrations reducing bundle sizes by up to 40%.
+- Designed reusable component API patterns adopted across multiple product teams.
+- Presented internal lightning talks and onboarding sessions for frontend best practices.
+
+</details>
+
+---
+
+## Learning Roadmap & 2026 Goals
+
+- Master advanced Angular internals and Signals-driven patterns.
+- Build a public, enterprise-grade component scaffolding tool.
+- Publish articles on frontend architecture and testing strategies.
+
+---
+
+## Open Source Vision
+
+I focus on infrastructure that helps teams ship reliably: tooling for migrations, testing, and component reuse.
+
+---
+
+## GitHub Widgets
+
+| GitHub Stats | Top Languages |
+|---|---|
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akashkumawat&show_icons=true&theme=dark&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashkumawat&layout=compact&theme=dark) |
+
+| Contribution Graph | Streak |
+|---|---|
+| ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=akashkumawat&theme=react-dark&area=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashkumawat&theme=dark) |
+
+| Trophies | Visitor Count |
+|---|---|
+| ![Trophies](https://github-profile-trophy.vercel.app/?username=akashkumawat&theme=dark) | ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=akashkumawat.akashkumawat) |
+
+---
+
+## How I Work
+
+- Architecture-first: start with a thin, practical architecture and evolve through feedback.
+- Component-driven: prioritize contracts, immutability, and strong typings.
+- Testable: prefer unit-tested primitives and end-to-end scenarios.
+- Mentor-first: pair-programming, reviews, and technical onboarding.
+
+---
+
+## Let's Connect
+
+- Portfolio: https://example.com/portfolio
+- Resume: https://example.com/resume.pdf
+- Email: akash.kumawat@example.com
+
+---
+
+<p align="center">Made with focus on architecture, quality, and craft.</p>

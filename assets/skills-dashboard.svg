@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420">
+  <defs>
+    <linearGradient id="sgrad" x1="0" x2="1">
+      <stop offset="0" stop-color="#06b6d4" />
+      <stop offset="1" stop-color="#7c3aed" />
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="420" rx="18" fill="#041226" />
+  <g transform="translate(36,36)" font-family="Inter, Arial" fill="#cbd5e1">
+    <text x="0" y="22" font-size="18">Skills Dashboard</text>
+    <g transform="translate(0,40)" font-size="13">
+      <text x="0" y="0">Frontend</text>
+      <rect x="0" y="8" width="420" height="12" rx="6" fill="rgba(255,255,255,0.04)" />
+      <rect x="0" y="8" width="320" height="12" rx="6" fill="url(#sgrad)" />
+
+      <text x="480" y="0">State Management</text>
+      <rect x="480" y="8" width="220" height="12" rx="6" fill="rgba(255,255,255,0.04)" />
+      <rect x="480" y="8" width="160" height="12" rx="6" fill="#60a5fa" />
+
+      <text x="0" y="44">Testing</text>
+      <rect x="0" y="52" width="420" height="12" rx="6" fill="rgba(255,255,255,0.04)" />
+      <rect x="0" y="52" width="220" height="12" rx="6" fill="#34d399" />
+
+      <text x="480" y="44">CI/CD</text>
+      <rect x="480" y="52" width="220" height="12" rx="6" fill="rgba(255,255,255,0.04)" />
+      <rect x="480" y="52" width="180" height="12" rx="6" fill="#f59e0b" />
+
+      <text x="0" y="88">Visualization</text>
+      <rect x="0" y="96" width="420" height="12" rx="6" fill="rgba(255,255,255,0.04)" />
+      <rect x="0" y="96" width="260" height="12" rx="6" fill="#ef4444" />
+
+      <text x="480" y="88">Databases</text>
+      <rect x="480" y="96" width="220" height="12" rx="6" fill="rgba(255,255,255,0.04)" />
+      <rect x="480" y="96" width="140" height="12" rx="6" fill="#a78bfa" />
+    </g>
+  </g>
+</svg>

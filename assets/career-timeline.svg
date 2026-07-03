@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="720" viewBox="0 0 900 720">
+  <rect width="900" height="720" rx="18" fill="#041226" />
+  <g transform="translate(48,48)" font-family="Inter, Arial" fill="#cbd5e1">
+    <text x="0" y="20" font-size="18">Career Timeline</text>
+    <g transform="translate(0,36)">
+      <line x1="48" y1="0" x2="48" y2="540" stroke="#0ea5a4" stroke-width="2" />
+      <g transform="translate(0,0)" font-size="13">
+        <g transform="translate(80,0)">
+          <circle cx="0" cy="12" r="10" fill="#7c3aed" />
+          <text x="28" y="16">Technology Apprentice — AngularJS, API Integration</text>
+        </g>
+        <g transform="translate(80,72)">
+          <circle cx="0" cy="12" r="10" fill="#7c3aed" />
+          <text x="28" y="16">Associate Technology Scientist — AngularJS, Java</text>
+        </g>
+        <g transform="translate(80,144)">
+          <circle cx="0" cy="12" r="10" fill="#7c3aed" />
+          <text x="28" y="16">Senior Software Engineer — Highcharts, Elasticsearch</text>
+        </g>
+        <g transform="translate(80,216)">
+          <circle cx="0" cy="12" r="10" fill="#7c3aed" />
+          <text x="28" y="16">Technical Lead — Product Development, Reusable Libraries</text>
+        </g>
+        <g transform="translate(80,288)">
+          <circle cx="0" cy="12" r="10" fill="#7c3aed" />
+          <text x="28" y="16">Project Lead — Enterprise Modernization</text>
+        </g>
+        <g transform="translate(80,360)">
+          <circle cx="0" cy="12" r="10" fill="#7c3aed" />
+          <text x="28" y="16">Frontend Engineering Lead — Architecture & Mentorship</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

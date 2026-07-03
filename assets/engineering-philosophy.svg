@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220">
+  <defs>
+    <linearGradient id="egrad" x1="0" x2="1">
+      <stop offset="0" stop-color="#0ea5a4" />
+      <stop offset="1" stop-color="#7c3aed" />
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="220" rx="14" fill="#071029" />
+  <g transform="translate(32,28)" font-family="Inter, Arial">
+    <g fill="#cbd5e1">
+      <text x="0" y="28" font-size="18">Engineering Philosophy</text>
+    </g>
+    <g transform="translate(0,48)" fill="#cbd5e1" font-size="14">
+      <text x="0" y="0">Think</text>
+      <text x="120" y="0">Design</text>
+      <text x="260" y="0">Build</text>
+      <text x="380" y="0">Review</text>
+      <text x="520" y="0">Refactor</text>
+      <text x="680" y="0">Mentor</text>
+      <text x="820" y="0">Scale</text>
+      <text x="920" y="0">Deliver Value</text>
+    </g>
+    <g transform="translate(0,92)">
+      <rect x="0" y="0" width="940" height="86" rx="10" fill="url(#egrad)" opacity="0.06" />
+    </g>
+  </g>
+</svg>

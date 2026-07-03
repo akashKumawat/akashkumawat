@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="spgrad" x1="0" x2="1">
+      <stop offset="0" stop-color="#06b6d4" />
+      <stop offset="1" stop-color="#7c3aed" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="24" fill="#071029" />
+  <g transform="translate(48,48)">
+    <text x="0" y="48" font-family="Inter, Arial" font-size="28" fill="#e6eef8">Akash Kumawat</text>
+    <text x="0" y="86" font-size="16" fill="#9fb0c8">Frontend Engineering Lead • Enterprise UI Architect • Angular Specialist</text>
+    <rect x="0" y="120" width="1104" height="360" rx="12" fill="url(#spgrad)" opacity="0.04" />
+  </g>
+</svg>

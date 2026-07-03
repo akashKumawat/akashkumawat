@@ -5,11 +5,11 @@
 -->
 
 <p align="center">
-  <img src="assets/banner.svg" alt="Akash Kumawat — Frontend Engineering Lead" width="100%"/>
+  <img src="./assets/banner.svg" alt="Akash Kumawat — Frontend Engineering Lead" width="100%"/>
 </p>
 
 <p align="center"> 
-  <img src="assets/profile-placeholder.svg" alt="profile" width="120" />
+  <img src="./assets/profile-placeholder.svg" alt="profile" width="120" />
 </p>
 
 # Akash Kumawat — Frontend Engineering Lead
@@ -24,10 +24,10 @@ Frontend Engineering Lead based in Pune, India. 8.6+ years building scalable ent
 
 ## Quick Actions
 
-- **Resume:** [Download Resume](https://example.com/resume.pdf)
+- **Resume:** [Download Resume](https://example.com/akash-kumawat-senior-frontend-engineer-cv.pdf)
 - **Portfolio:** [View Portfolio](https://example.com/portfolio)
-- **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/REPLACE-LINKEDIN)
-- **Email:** akash.kumawat@example.com
+- **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/akash-r-kumawat/)
+- **Email:** akash.kumawat@gmail.com
 
 ---
 
@@ -39,7 +39,7 @@ I design and deliver enterprise-grade frontend systems focused on architecture, 
 
 ## Engineering Philosophy
 
-<img src="assets/engineering-philosophy.svg" alt="Engineering Philosophy" width="100%" />
+<img src="./assets/engineering-philosophy.svg" alt="Engineering Philosophy" width="100%" />
 
 Think ▸ Design ▸ Build ▸ Review ▸ Refactor ▸ Mentor ▸ Scale ▸ Deliver Value
 
@@ -65,7 +65,7 @@ Think ▸ Design ▸ Build ▸ Review ▸ Refactor ▸ Mentor ▸ Scale ▸ Deli
 
 ## Skills Overview
 
-<img src="assets/skills-dashboard.svg" alt="Skills Dashboard" width="100%" />
+<img src="./assets/skills-dashboard.svg" alt="Skills Dashboard" width="100%" />
 
 **Frontend:** Angular (2–21), AngularJS, React, TypeScript, JavaScript, HTML5, CSS3, SCSS
 
@@ -85,7 +85,7 @@ Think ▸ Design ▸ Build ▸ Review ▸ Refactor ▸ Mentor ▸ Scale ▸ Deli
 
 ## Career Timeline
 
-<img src="assets/career-timeline.svg" alt="Career Timeline" width="100%" />
+<img src="./assets/career-timeline.svg" alt="Career Timeline" width="100%" />
 
 **Technology Apprentice** → **Associate Technology Scientist** → **Senior Software Engineer** → **Technical Lead** → **Senior Software Engineer** → **Project Lead** → **Frontend Engineering Lead**
 

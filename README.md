@@ -25,9 +25,9 @@ Frontend Engineering Lead based in Pune, India. 8.6+ years building scalable ent
 ## Quick Actions
 
 - **Resume:** [Download Resume](https://example.com/akash-kumawat-senior-frontend-engineer-cv.pdf)
-- **Portfolio:** [View Portfolio](https://example.com/portfolio)
+- **Portfolio:** [View Portfolio](https://akash-kumawat.web.app)
 - **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/akash-r-kumawat/)
-- **Email:** akash.kumawat@gmail.com
+- **Email:** [akash.kumawat.r@gmail.com](mailto:akash.kumawat.r@gmail.com)
 
 ---
 

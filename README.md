@@ -15,7 +15,7 @@
 const akash: FullStackEngineer = {
   role: "Senior Frontend Engineering Lead / Frontend Architect",
   experience: "8.6+ years",
-  currentlyLeading: "Mizuho Bank BPM Platform frontend @ Persistent Systems",
+  currentlyLeading: "Enterprise BPM Platform frontend for a Tier-1 global banking client @ Persistent Systems",
   domains: ["BFSI", "Digital Wellbeing", "Product Management", "Supply Chain"],
   superpower: "Turning legacy AngularJS monoliths into modern, modular platforms",
   expandingInto: "Full-Stack Development — Node.js, Express, MongoDB, JWT Auth",
@@ -110,7 +110,7 @@ backend depth. See the featured project below for proof of that work.
 
 ### 💼 Career Highlights
 
-**🏦 Persistent Systems — Mizuho Bank BPM** · `Oct 2024 – Present`
+**🏦 Persistent Systems — Enterprise BPM Platform (Tier-1 Banking Client)** · `Oct 2024 – Present`
 - **Project Lead** owning end-to-end delivery for a 4–6 engineer team
 - Migrated legacy **AngularJS → Angular 21** with Signals
 - Built a Jest testing framework hitting **70–85% coverage**
